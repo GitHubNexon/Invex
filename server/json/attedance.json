@@ -1,0 +1,30 @@
+{
+  "teacherId": "6440dcd49c9a4e001fa6fabc",
+  "students": [
+    {
+      "studentId": "6440dce99c9a4e001fa6fabd",
+      "attendanceStatus": {
+        "isPresent": true,
+        "isAbsent": false,
+        "isLate": false,
+        "isExcused": false
+      }
+    },
+    {
+      "studentId": "6440dcf59c9a4e001fa6fabe",
+      "attendanceStatus": {
+        "isPresent": false,
+        "isAbsent": true,
+        "isLate": false,
+        "isExcused": true
+      }
+    }
+  ],
+  "status": {
+    "isDeleted": false,
+    "isArchived": false
+  },
+  "date": "2025-04-29T00:00:00.000Z",
+  "section": "Grade 10 - A",
+  "subject": "Mathematics"
+}
